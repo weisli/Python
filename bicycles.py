@@ -1,3 +1,3 @@
 
-bicycles = ['trek','cannondale','redline','specialized']
+bicycles = ['treks','cannondale','redline','specialized']
 print(bicycles[1].title()+".")
